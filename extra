@@ -1,0 +1,38 @@
+https://code.visualstudio.com/ > Install
+https://nodejs.org/en > Install
+https://github.com/ > create account
+https://github.com/Aakashdeveloper > Follow
+
+Node
+> Single Threaded async non-block I/O
+
+node -v
+
+Routing > Express
+
+JSON
+> JavaScript Object Notation
+[
+    {
+        "name":"Alvin",
+        "city":"Paris"
+    },
+    {
+        "name":"Ankita",
+        "city":"Boston"
+    }
+]
+
+// package.json
+> Entry point to the application
+> Contains meta data
+> Contains packages we require
+> Commands for the application
+
+RestApi > Url which will connect with Database and expose the data for frontend connection
+
+/// step to generate package.json
+> open terminal go inside folder
+> npm init
+> answer the question
+> type "yes"

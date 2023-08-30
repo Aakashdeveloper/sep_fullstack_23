@@ -36,3 +36,19 @@ RestApi > Url which will connect with Database and expose the data for frontend 
 > npm init
 > answer the question
 > type "yes"
+
+
+// /// step to install package
+> open terminal go inside folder
+> npm i packagename
+
+
+C > Create > POST
+R > Read   > GET 
+U > Update > PUT
+D > Delete > DELETE
+
+///////Global Package//////////////
+> open cmd as admin
+> npm i -g nodemon
+
